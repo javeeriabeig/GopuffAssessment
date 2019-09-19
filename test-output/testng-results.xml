@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SearchEngine" duration-ms="69090" started-at="2019-09-19T17:13:26Z" finished-at="2019-09-19T17:14:35Z">
+    <groups>
+    </groups>
+    <test name="UITest" duration-ms="69090" started-at="2019-09-19T17:13:26Z" finished-at="2019-09-19T17:14:35Z">
+      <class name="SearchTestPkg.TestUI">
+        <test-method status="PASS" signature="test_KeywordSearch(java.lang.String)[pri:0, instance:SearchTestPkg.TestUI@6767c1fc]" name="test_KeywordSearch" duration-ms="1726" started-at="2019-09-19T17:14:20Z" finished-at="2019-09-19T17:14:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[water]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_KeywordSearch -->
+        <test-method status="PASS" signature="test_cancelbuttonvisibility(java.lang.String)[pri:0, instance:SearchTestPkg.TestUI@6767c1fc]" name="test_cancelbuttonvisibility" duration-ms="253" started-at="2019-09-19T17:14:22Z" finished-at="2019-09-19T17:14:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[water]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_cancelbuttonvisibility -->
+        <test-method status="PASS" signature="test_placeholder()[pri:0, instance:SearchTestPkg.TestUI@6767c1fc]" name="test_placeholder" duration-ms="35" started-at="2019-09-19T17:14:22Z" finished-at="2019-09-19T17:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_placeholder -->
+        <test-method status="PASS" signature="test_searchboxdisplayed()[pri:0, instance:SearchTestPkg.TestUI@6767c1fc]" name="test_searchboxdisplayed" duration-ms="40" started-at="2019-09-19T17:14:22Z" finished-at="2019-09-19T17:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_searchboxdisplayed -->
+        <test-method status="PASS" signature="test_searchbutton()[pri:0, instance:SearchTestPkg.TestUI@6767c1fc]" name="test_searchbutton" duration-ms="179" started-at="2019-09-19T17:14:22Z" finished-at="2019-09-19T17:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_searchbutton -->
+      </class> <!-- SearchTestPkg.TestUI -->
+      <class name="SearchTestPkg.TestCancelBtnFunc">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:SearchTestPkg.TestCancelBtnFunc@c038203]" name="Setup" is-config="true" duration-ms="16753" started-at="2019-09-19T17:13:26Z" finished-at="2019-09-19T17:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:SearchTestPkg.TestSearchlist@29ee9faa]" name="Setup" is-config="true" duration-ms="18003" started-at="2019-09-19T17:13:42Z" finished-at="2019-09-19T17:14:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:SearchTestPkg.TestUI@6767c1fc]" name="Setup" is-config="true" duration-ms="19620" started-at="2019-09-19T17:14:01Z" finished-at="2019-09-19T17:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="test_cancelsearch(java.lang.String)[pri:0, instance:SearchTestPkg.TestCancelBtnFunc@c038203]" name="test_cancelsearch" duration-ms="783" started-at="2019-09-19T17:14:33Z" finished-at="2019-09-19T17:14:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[water]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_cancelsearch -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:SearchTestPkg.TestCancelBtnFunc@c038203]" name="Teardown" is-config="true" duration-ms="99" started-at="2019-09-19T17:14:34Z" finished-at="2019-09-19T17:14:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:SearchTestPkg.TestSearchlist@29ee9faa]" name="Teardown" is-config="true" duration-ms="131" started-at="2019-09-19T17:14:34Z" finished-at="2019-09-19T17:14:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:SearchTestPkg.TestUI@6767c1fc]" name="Teardown" is-config="true" duration-ms="421" started-at="2019-09-19T17:14:34Z" finished-at="2019-09-19T17:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- SearchTestPkg.TestCancelBtnFunc -->
+      <class name="SearchTestPkg.TestSearchlist">
+        <test-method status="PASS" signature="test_searchkeywordCount(java.lang.String)[pri:0, instance:SearchTestPkg.TestSearchlist@29ee9faa]" name="test_searchkeywordCount" duration-ms="4314" started-at="2019-09-19T17:14:22Z" finished-at="2019-09-19T17:14:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bottle]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_searchkeywordCount -->
+        <test-method status="PASS" signature="test_searchlist(java.lang.String)[pri:0, instance:SearchTestPkg.TestSearchlist@29ee9faa]" name="test_searchlist" duration-ms="6675" started-at="2019-09-19T17:14:27Z" finished-at="2019-09-19T17:14:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bottle]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_searchlist -->
+      </class> <!-- SearchTestPkg.TestSearchlist -->
+    </test> <!-- UITest -->
+  </suite> <!-- SearchEngine -->
+</testng-results>

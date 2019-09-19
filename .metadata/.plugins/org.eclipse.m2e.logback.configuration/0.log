@@ -1,0 +1,35 @@
+2019-09-18 23:46:38,881 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-09-18 23:58:01,357 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-09-18 23:59:34,189 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: saiglobal:automation:0.0.1-SNAPSHOT @ C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\pom.xml.
+2019-09-18 23:59:34,189 [Worker-10: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: saiglobal:automation:0.0.1-SNAPSHOT @ C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\pom.xml.
+2019-09-18 23:59:36,945 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 23:59:36,945 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\src\main\resources
+2019-09-18 23:59:36,950 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 23:59:36,950 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\src\test\resources
+2019-09-18 23:59:40,179 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 23:59:40,180 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\src\main\resources
+2019-09-18 23:59:40,189 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 23:59:40,190 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\src\test\resources
+2019-09-18 23:59:40,201 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: saiglobal:automation:0.0.1-SNAPSHOT @ C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\pom.xml.
+2019-09-18 23:59:41,529 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 23:59:41,529 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\src\main\resources
+2019-09-18 23:59:41,533 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 23:59:41,533 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\src\test\resources
+2019-09-19 02:31:27,672 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-09-19 02:31:41,139 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: saiglobal:automation:0.0.1-SNAPSHOT @ C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\pom.xml.
+2019-09-19 02:31:41,141 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: saiglobal:automation:0.0.1-SNAPSHOT @ C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\pom.xml.
+2019-09-19 02:31:42,923 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-19 02:31:42,923 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\src\main\resources
+2019-09-19 02:31:42,929 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-19 02:31:42,930 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\src\test\resources
+2019-09-19 02:31:45,571 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: saiglobal:automation:0.0.1-SNAPSHOT @ C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\pom.xml.
+2019-09-19 02:31:45,998 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-19 02:31:45,999 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\src\main\resources
+2019-09-19 02:31:46,002 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-19 02:31:46,002 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\src\test\resources
+2019-09-19 02:31:47,319 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-19 02:31:47,319 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\src\main\resources
+2019-09-19 02:31:47,322 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-19 02:31:47,322 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Javeeria Ali Beig\eclipse-workspaceNew\Introduction\auto\src\test\resources
+2019-09-19 02:35:45,038 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-09-19 02:40:57,994 [Worker-10: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SearchEngine" configfailurepolicy="skip">
+
+ <test name='UITest'>
+  
+  <parameter name="Searchword" value="bottle"/>
+  <parameter name="Keywordcheck" value="water"/>
+  
+ <classes>
+  
+  <class name="SearchTestPkg.TestUI"/>
+  <class name="SearchTestPkg.TestSearchlist"/> 
+  <class name="SearchTestPkg.TestCancelBtnFunc"/>
+  
+  
+  </classes>
+  
+  </test> 
+</suite> 

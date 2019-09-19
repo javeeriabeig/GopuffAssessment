@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SearchEngine]">
+  <test thread-count="5" name="UITest(failed)">
+    <parameter name="Keywordcheck" value="water"/>
+    <parameter name="Searchword" value="bottle"/>
+    <classes>
+      <class name="SearchTestPkg.TestSearchlist">
+        <methods>
+          <include name="test_searchkeywordCount"/>
+          <include name="Setup"/>
+          <include name="test_searchlist"/>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- SearchTestPkg.TestSearchlist -->
+      <class name="SearchTestPkg.TestCancelBtnFunc">
+        <methods>
+          <include name="test_cancelsearch"/>
+          <include name="Teardown"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- SearchTestPkg.TestCancelBtnFunc -->
+      <class name="SearchTestPkg.TestUI">
+        <methods>
+          <include name="Setup"/>
+          <include name="test_KeywordSearch"/>
+          <include name="test_cancelbuttonvisibility"/>
+          <include name="Teardown"/>
+          <include name="test_searchboxdisplayed"/>
+          <include name="test_placeholder"/>
+          <include name="test_searchbutton"/>
+        </methods>
+      </class> <!-- SearchTestPkg.TestUI -->
+    </classes>
+  </test> <!-- UITest(failed) -->
+</suite> <!-- Failed suite [SearchEngine] -->
